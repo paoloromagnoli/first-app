@@ -1,2 +1,2 @@
 # first-app
-This app is to test GitHub + CodePipeline + EKS
+This app is to test deployment on EKS
